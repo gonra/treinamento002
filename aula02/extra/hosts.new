@@ -1,0 +1,209 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 licensing.ultraedit.com
+127.0.0.1 licensing2.ultraedit.com
+
+
+# Máquinas utilizadas recentemente
+10.18.16.184	BRUX0067.claro.com.br   BRUX0067
+10.18.49.65		BRUX0206.claro.com.br   BRUX0206
+10.54.16.93		BRUX1540.claro.com.br   BRUX1540
+10.21.5.109		RJUX0062.claro.com.br   RJUX0062
+10.54.18.88		BRUX2527.claro.com.br   BRUX2527
+10.18.16.39     BRUX0804.claro.com.br   BRUX0804
+10.54.24.222    idmbr.claro.com.br      idmbr
+# Máquinas utilizadas recentemente
+
+
+
+10.202.20.61	srv_nat-e_extranet.claro.com.br	srv_nat-e_extranet
+10.202.20.141	aguaclara.claro.com.br	aguaclara
+10.202.20.132	alcinopolis.claro.com.br	alcinopolis
+10.202.20.82	alvinlandia.claro.com.br	alvinlandia
+10.202.20.128	amambai.claro.com.br	amambai
+10.202.20.128	anastacio.claro.com.br	anastacio
+10.202.20.142	anaurilandia.claro.com.br	anaurilandia
+10.202.20.47	arandu.claro.com.br	arandu
+10.202.20.53	arcoiris.claro.com.br	arcoiris
+10.202.20.109	arenapolis.claro.com.br	arenapolis
+10.202.20.111	aripuana.claro.com.br	aripuana
+10.202.20.79	arraialnovo.claro.com.br	arraialnovo
+10.202.20.83	bariri.claro.com.br	bariri
+10.202.20.81	bastos.claro.com.br	bastos
+10.202.20.49	bauru.claro.com.br	bauru
+10.202.20.118	bebedouro.claro.com.br	bebedouro
+10.202.20.18	bentoribeiro.claro.com.br	bentoribeiro
+10.202.20.86	bomlugar.claro.com.br	bomlugar
+10.202.20.77	boraceia.claro.com.br	boraceia
+10.202.20.29	brux0001.claro.com.br	brux0001
+10.19.12.11	brux0002.claro.com.br	brux0002
+10.202.20.97	brux0093.claro.com.br	brux0093
+10.202.20.43	brux0221.claro.com.br	brux0221
+10.202.20.57	brux0234.claro.com.br	brux0234
+10.202.20.39	brux0243.claro.com.br	brux0243
+10.202.20.27	brux0244.claro.com.br	brux0244
+10.202.20.55	brux0253.claro.com.br	brux0253
+10.202.20.56	brux0254.claro.com.br	brux0254
+10.202.20.59	brux0281.claro.com.br	brux0281
+10.202.20.120	brux0299.claro.com.br	brux0299
+10.202.20.112	brux0332.claro.com.br	brux0332
+10.202.20.124	brux0338.claro.com.br	brux0338
+10.202.20.121	brux0341.claro.com.br	brux0341
+10.202.20.122	brux0342.claro.com.br	brux0342
+10.202.20.123	brux0343.claro.com.br	brux0343
+10.202.20.143	brux0413.claro.com.br	brux0413
+10.202.20.89	buena.claro.com.br	buena
+10.202.20.80	cabralia.claro.com.br	cabralia
+10.202.20.66	caiua.claro.com.br	caiua
+10.202.20.110	campinapolis.claro.com.br	campinapolis
+10.202.20.102	campinapolis.claro.com.br	campinapolis
+10.202.20.98	camposdejulio.claro.com.br	camposdejulio
+10.202.20.107	campoverde.claro.com.br	campoverde
+10.202.20.108	canarana.claro.com.br	canarana
+10.202.20.72	canitar.claro.com.br	canitar
+10.202.20.58	catigua.claro.com.br	catigua
+10.202.20.94	colegio.claro.com.br	colegio
+10.202.20.93	cortes.claro.com.br	cortes
+10.202.20.87	cunha.claro.com.br	cunha
+10.202.20.21	dobrada.claro.com.br	dobrada
+10.202.20.6	embla.claro.com.br	embla
+10.202.20.71	galia.claro.com.br	galia
+10.202.20.32�	gavea.claro.com.br	gavea
+10.202.20.73	guaicara.claro.com.br	guaicara
+10.202.20.78	guaimbe.claro.com.br	guaimbe
+10.202.20.182	guanabara06.claro.com.br	guanabara06
+10.202.20.90	guandu.claro.com.br	guandu
+10.202.20.113	guaranta.claro.com.br	guaranta
+10.202.20.20	guariri.claro.com.br	guariri
+10.202.20.52	guariri2.claro.com.br	guariri2
+10.202.20.38	herculandia.claro.com.br	herculandia
+10.202.20.24	ituverava.claro.com.br	ituverava
+10.202.20.23	iwdevel.claro.com.br	iwdevel
+10.202.20.22	iw-teste.claro.com.br	iw-teste
+10.202.20.4	jacone.claro.com.br	jacone
+10.202.20.44	mallet.claro.com.br	mallet
+10.202.20.95	miguelarcanjo.claro.com.br	miguelarcanjo
+10.202.20.76	mineirosdotiete.claro.com.br	mineirosdotiete
+10.202.20.42	nabr.claro.com.br	nabr
+10.202.20.42	npac.claro.com.br	npac
+10.202.20.70	passos.claro.com.br	passos
+10.202.20.62	peabiru.claro.com.br	peabiru
+10.202.20.117	peritiba.claro.com.br	peritiba
+10.202.20.45	pirai.claro.com.br	pirai
+10.202.20.33	praiaseca.claro.com.br	praiaseca
+10.202.20.115	querencia.claro.com.br	querencia
+10.202.20.91	restinga.claro.com.br	restinga
+10.202.20.1	rjux0038.claro.com.br	rjux0038
+10.202.20.60	rjux0063.claro.com.br	rjux0063
+10.202.20.3	rjux0065.claro.com.br	rjux0065
+10.202.20.30	rjux0081.claro.com.br	rjux0081
+10.202.20.88	rjux0087.claro.com.br	rjux0087
+10.21.5.196	rjux0089.claro.com.br	rjux0089
+10.202.20.74	rjux0093.claro.com.br	rjux0093
+10.202.20.119	rjux0100.claro.com.br	rjux0100
+10.202.20.28	rjux0113.claro.com.br	rjux0113
+10.202.20.148	rjux0122.claro.com.br	rjux0122
+10.202.20.96	rjux0133.claro.com.br	rjux0133
+10.202.20.104	_rjux0136.claro.com.br	_rjux0136
+10.202.20.116	rjux0136.claro.com.br	rjux0136
+10.202.20.105	rjux0137.claro.com.br	rjux0137
+10.202.20.133	rjux0150.claro.com.br	rjux0150
+10.202.20.134	rjux0151.claro.com.br	rjux0151
+10.202.20.135	rjux0152.claro.com.br	rjux0152
+10.202.20.136	rjux0153.claro.com.br	rjux0153
+10.202.20.137	rjux0154.claro.com.br	rjux0154
+10.202.20.138	rjux0155.claro.com.br	rjux0155
+10.202.20.139	rjux0156.claro.com.br	rjux0156
+10.202.20.140	rjux0157.claro.com.br	rjux0157
+10.21.4.116	rjux0159.claro.com.br	rjux0159
+10.202.20.31	sabino.claro.com.br	sabino
+10.202.20.36	santarosa.claro.com.br	santarosa
+10.202.20.35	santoexpedito.claro.com.br	santoexpedito
+10.202.20.41 	saosapucai.claro.com.br	saosapucai
+10.202.20.15	tades1.claro.com.br	tades1
+10.202.20.48	tades5.claro.com.br	tades5
+10.202.20.25	tadw2.claro.com.br	tadw2
+10.202.20.37	tamoios.claro.com.br	tamoios
+10.202.20.40	tejupa.claro.com.br	tejupa
+10.202.20.85	tremembe.claro.com.br	tremembe
+10.202.20.50	valentim.claro.com.br	valentim
+10.202.20.92	vilamilitar.claro.com.br	vilamilitar
+10.202.20.75	vistaalegre.claro.com.br	vistaalegre
+10.202.20.145	espiritosanto.claro.com.br	espiritosanto
+10.202.20.149	arraial.claro.com.br	arraial
+10.202.20.150	vassouras.claro.com.br	vassouras
+10.202.20.151	paqueta.claro.com.br	paqueta
+10.202.20.66	caiua.claro.com.br	caiua
+10.18.16.102	icara.claro.com.br	icara
+10.18.16.52	paraguacu.claro.com.br	paraguacu
+10.18.16.68	cabreuva.claro.com.br	cabreuva
+10.18.16.115	brux0346.claro.com.br	brux0346
+10.202.20.156	ipaussu.claro.com.br	ipaussu
+10.202.20.157	brux0362.claro.com.br	brux0362
+10.202.20.158	clementina.claro.com.br	clementina
+10.202.20.159	websan.claro.com.br	websan
+10.202.20.160	brux0164.claro.com.br	brux0164
+10.202.20.161	orindiuva.claro.com.br	orindiuva
+10.202.20.173	spux1006.claro.com.br	spux1006
+10.202.20.162	agrolandia.claro.com.br	agrolandia
+10.202.20.163	atalaia.claro.com.br	atalaia
+10.202.20.164	batatal.claro.com.br	batatal
+10.202.20.165	brux0304.claro.com.br	brux0304
+10.202.20.166	corregocima.claro.com.br	corregocima
+10.202.20.167	degredo.claro.com.br	degredo
+10.202.20.168	estreladonorte.claro.com.br	estreladonorte
+10.202.20.169	fraiburgo.claro.com.br	fraiburgo
+10.202.20.170	guarichima.claro.com.br	guarichima
+10.202.20.171	jarinu.claro.com.br	jarinu
+10.202.20.172	rainha.claro.com.br	rainha
+10.202.20.179	saquarema.claro.com.br	saquarema
+10.202.20.176	cedral.claro.com.br	cedral
+10.202.20.177	piratuba.claro.com.br	piratuba
+10.202.20.178	riodocampo.claro.com.br	riodocampo
+10.202.20.175	araputanga.claro.com.br	araputanga
+10.202.20.39	brux0243.claro.com.br	brux0243
+10.202.20.32	gavea.claro.com.br	gavea
+10.202.20.158	clementina.claro.com.br	clementina
+10.202.20.50	aratuba.claro.com.br	aratuba
+10.21.9.67 	saofidelis.claro.com.br saofidelis
+10.202.20.131   guatapara.claro.com.br  guatapara
+10.18.16.121   BRUX0486.claro.com.br   BRUX0486
+10.18.17.33	BRUX9966.claro.com.br   BRUX9966
+10.21.6.247	RJUX0122.claro.com.br   RJUX0122
+10.202.20.110	areias.claro.com.br		areias
+10.202.20.215	BRUX0691.claro.com.br	BRUX0691
+10.202.20.216	BRUX0701.claro.com.br	BRUX0701
+10.202.20.217	brux0693		brux0693.claro.com.br
+10.202.20.218	BRUX0702.claro.com.br	BRUX0702
+10.202.20.219	BRUX0703.claro.com.br	BRUX0703
+10.202.20.220	RIODOSUL.claro.com.br	RIODOSUL
+10.202.20.107 abarracamento.claro.com.br abarracamento
+10.202.20.114	brux0408.claro.com.br	brux0408
+10.202.20.159   WEBSAN.claro.com.br		WEBSAN
+10.202.20.23    iwdevel.claro.com.br	iwdevel
+10.202.20.22    iwteste.claro.com.br	iwteste
+10.202.20.16 RJUX0177 RJUX0177.claro.com.br
+10.18.16.127    BRUX0510.claro.com.br	BRUX0510
+10.96.200.222	atari
+10.21.6.113    RJUX0186.claro.com.br	RJUX0186
+10.21.6.114    RJUX0187.claro.com.br	RJUX0187

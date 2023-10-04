@@ -1,0 +1,1 @@
+socat TCP-LISTEN:9093,fork TCP:10.18.16.184:1521 &

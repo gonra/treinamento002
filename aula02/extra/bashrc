@@ -1,0 +1,1 @@
+export PATH=/usr/src/app/jre1.6.0_45/bin:/home/mtaprod/bin:$PATH
